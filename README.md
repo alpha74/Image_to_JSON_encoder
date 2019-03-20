@@ -1,6 +1,7 @@
 IMAGE TO JSON ENCODER
 =======================
-# Author: Aman Kumar @alpha74
+
+Author: Aman Kumar @alpha74
 
 INPUT: 
 	1. Image file
