@@ -13,4 +13,4 @@ OUTPUT:
 DETAILS:
 - Works with JPEG images.
 - image64 is the Base64 encoding of the image.	
-- Code can be modified easily to work with commandline image filename. $a \times b$
+- Code can be modified easily to work with commandline image filename.
